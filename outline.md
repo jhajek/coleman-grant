@@ -24,3 +24,25 @@ Discuss in detail
 This book is not a replacement for a knowledgeable IT administrator but gives you the researcher and innovator the tools you need to excel in your area and maintain that excellence.
 
 
+Outline:
+    1. Picking the right specs...
+        a. CPU memory
+        b. Ram - Need to know how much traffic?
+        c. Storage       
+    2. Picking the Base installation
+        a. OS - Ubuntu, Debian, Windows, etc...
+    3. Hosting Applications
+        a. Apache, NginX, Lighthttpd, Etc...
+    4. Storage/ Database 
+        a. MySQL, NoSQL...
+        b. Handleing larger files and content
+    5. Installing all chosen Software (This could be a lab, or a detailed chapter that we pick the specs. and show a step by step installation)
+    6. Configuration of software
+    7. Security 
+        a. SSL- Let's Encrypt, GoDaddy (Paid vs Free SSL)
+        b. Blocking not need ports
+        c. Handleing traffic
+    (Scalability)
+    8. Going with a load balancer with multi back end server... 
+    9. 
+    10. 
