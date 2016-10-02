@@ -24,25 +24,41 @@ Discuss in detail
 This book is not a replacement for a knowledgeable IT administrator but gives you the researcher and innovator the tools you need to excel in your area and maintain that excellence.
 
 
-Outline:
-    1. Picking the right specs...
-        a. CPU memory
-        b. Ram - Need to know how much traffic?
-        c. Storage       
-    2. Picking the Base installation
-        a. OS - Ubuntu, Debian, Windows, etc...
-    3. Hosting Applications
-        a. Apache, NginX, Lighthttpd, Etc...
-    4. Storage/ Database 
-        a. MySQL, NoSQL...
-        b. Handleing larger files and content
-    5. Installing all chosen Software (This could be a lab, or a detailed chapter that we pick the specs. and show a step by step installation)
-    6. Configuration of software
-    7. Security 
-        a. SSL- Let's Encrypt, GoDaddy (Paid vs Free SSL)
-        b. Blocking not need ports
-        c. Handleing traffic
-    (Scalability)
-    8. Going with a load balancer with multi back end server... 
-    9. 
-    10. 
+## Outline:
+    1. Picking the right specs...<br />
+        a. CPU memory<br />
+        b. Ram - Need to know how much traffic?<br />
+        c. Storage<br />
+    2. Picking the Base installation<br />
+        a. OS - Ubuntu, Debian, Windows, etc...<br />
+    3. Hosting Applications<br />
+        a. Apache, NginX, Lighthttpd, Etc...<br />
+    4. Storage/ Database<br />
+        a. MySQL, NoSQL...<br />
+        b. Handleing larger files and content<br />
+    5. Installing all chosen Software (This could be a lab, or a detailed chapter that we pick the specs. and show a step by step installation)<br />
+    6. Configuration of software<br />
+    7. Security<br />
+        a. SSL- Let's Encrypt, GoDaddy (Paid vs Free SSL)<br />
+        b. Blocking not need ports<br />
+        c. Handleing traffic<br />
+    **(Scalability)<br />
+    8. Going with a load balancer with multi back end server...<br />
+    9. <br />
+    10.<br />
+    <br />
+    <br />
+    ## Lab Idea's<br />
+    1. <br />
+        LOW: Research and list a computer parts that can host a webserver and have an a traffic load of 10 users at once. <br />
+        High: Research and list a computer parts that can host a webserver and have an a traffic load of 100 users at once with a certain budget.<br />
+        Tehnical Skill: Install the needed software for the rest of the labs. "Vagrant, Virtualbox..." <br />
+    2. <br />
+        LOW: Find 10 OS that are used everyday and list if they are open sourced or not <br />
+        High: Find 4 OS that are not used everyday (not too famous) and list the reason behind why you picked them? <br />
+        Techincal Skill: Install (#) of OS on a virtual platform (Virtualbox, Vmware, Parallel, Etc...) "Try with Vagrant"<br />
+    3. <br />
+        Low: List advantages and Dis advantages of 3 Webservers of your choice. <br />
+        High: <br />
+        Technical Skill: Install 3-5 different webservers on different OS
+    
